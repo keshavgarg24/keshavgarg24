@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm KESHAV GARG</h1>
-<h3 align="center">ECE undergraduate from MAIT, DELHI and a passionate tech enthusiast</h3>
+<h3 align="center">Aren't bytes bit odd to be always even platonically</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavgarg24&label=Profile%20views&color=0e75b6&style=flat" alt="keshavgarg24" /> </p>
 
