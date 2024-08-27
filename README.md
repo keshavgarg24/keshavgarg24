@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm KESHAV GARG</h1>
+<h1 align="center">Keshav Garg</h1>
 <h3 align="center">Aren't bytes bit odd to be always even platonically</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavgarg24&label=Profile%20views&color=0e75b6&style=flat" alt="keshavgarg24" /> </p>
@@ -25,14 +25,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keshavgarg24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavgarg24&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=keshavgarg24&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
