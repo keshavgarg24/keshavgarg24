@@ -13,16 +13,16 @@
 ##  My Toolkit
 
 **Languages:**  
-JavaScript · TypeScript · Python
+JavaScript · TypeScript · Python · C/C++
 
 **Frameworks & Libraries:**  
-React · Next.js · Node.js · Express · Tailwind CSS · Shadcn/UI · Framer Motion
+React · Next.js · Node.js · Express · React Native · Expo · Tailwind CSS · Shadcn/UI · Framer Motion · Zustand
 
 **Databases & APIs:**  
-MongoDB · PostgreSQL · Prisma · Convex · Firebase
+PostgreSQL · MongoDB · MySQL · Firebase · Redis · Prisma · Drizzle ORM · Convex
 
 **Dev Tools:**  
-Git · Vercel · Docker · Clerk · Zustand · Render · Figma
+Git · GitHub · Docker · Kubernetes · Kafka · REST APIs · CI/CD · WebSockets · Vercel 
 
 ---
 
